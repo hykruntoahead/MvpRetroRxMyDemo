@@ -7,4 +7,5 @@ package com.example.heyukun.mvpretrorxmydemo.domain.view;
 public interface IMainView {
     void showLoading();
     void hideLoading();
+    void loginSuccess();
 }
